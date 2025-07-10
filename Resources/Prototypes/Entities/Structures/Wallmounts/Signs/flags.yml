@@ -53,3 +53,12 @@
   components:
   - type: Sprite
     state: pirate_flag
+
+- type: entity
+  parent: BaseFlag
+  id: UNSAFlag
+  name: UNSA flag
+  description: Flag of the Universal States of America. Yeehaw.
+  components:
+  - type: Sprite
+    state: UNSA_flag
