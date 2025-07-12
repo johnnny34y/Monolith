@@ -681,6 +681,7 @@
   - ContractorClothingNeckMantleCE
   - ContractorClothingNeckCloakVoid
   - ContractorClothingNeckBling
+  - ContractorClothingNeckUNSAArmband
 
 - type: loadoutGroup
   id: ContractorPDA
