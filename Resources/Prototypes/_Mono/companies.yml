@@ -147,7 +147,7 @@
   form: Protagonist
   name: Universal States of America
   description: universal-states-of-america-description
-  color: "#0A3161"
+  color: "#0D499E"
   image: /Textures/_Mono/Companies/UNSA.png
 
 - type: company
